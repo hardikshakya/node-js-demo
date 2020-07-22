@@ -1,0 +1,14 @@
+{
+  "name": "p2_enhancing_node_performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "block_event_loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
